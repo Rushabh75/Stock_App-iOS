@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/0601b30c-844f-4472-b0b4-32129cc70ab6
+
 # **Stock Trading iOS App**
 
 The **Stock Trading App** is a native iOS application designed to provide users with comprehensive stock market information and trading capabilities. With features like real-time stock updates, portfolio management, and a news section, the app is an essential tool for both novice and experienced traders. Users can search for stock symbols, view detailed financial data, trade stocks using virtual money, and stay informed with the latest news.
